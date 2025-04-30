@@ -85,7 +85,7 @@ behavior was inappropriate. A public apology may be requested.
 **Community Impact**: A violation through a single incident or series
 of actions.
 
-**Consequence**: A warning with consequences for continued behavior. No
+**Consequence**: A public warning with consequences for continued behavior. No
 interaction with the people involved, including unsolicited interaction with
 those enforcing the Code of Conduct, for a specified period of time. This
 includes avoiding interactions in community spaces as well as external channels
@@ -97,7 +97,7 @@ permanent ban.
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
 
-**Consequence**: A temporary ban from any sort of interaction or public
+**Consequence**: A publicly announced temporary ban from any sort of interaction or public
 communication with the community for a specified period of time. No public or
 private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
@@ -109,7 +109,7 @@ Violating these terms may lead to a permanent ban.
 standards, including sustained inappropriate behavior,  harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
-**Consequence**: A permanent ban from any sort of public interaction within
+**Consequence**: A publically announced permanent ban from any sort of public interaction within
 the community.
 
 ## Attribution
